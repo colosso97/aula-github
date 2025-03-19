@@ -1,2 +1,3 @@
 Aula de Logica
 teste3
+exemplo de conflito no commit
