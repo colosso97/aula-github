@@ -1,4 +1,4 @@
 Aula de Logica
 teste3
 exemplo de conflito no commit
-teste novo conflito
+teste novo conflito conflito
